@@ -8,7 +8,7 @@
 <ul>
   <li>You can use the Data I have provided, which consist of sentences in  ['eng','spn','itl','due']. </li>
   <li>In preprocessing step, I only consider word which are more than 2 in length as well use nltk stemming.</li>
-  <li> Rearrange the data after preprocessing step now data looks something like [TEXT,LABEL]</li>
+  <li> Rearranging the data after preprocessing step [TEXT,LABEL].</li>
   <li> I use simple feed forward network to feed the data.</li> 
 </ul>
   <h2>Data Preprocessing</h2>
