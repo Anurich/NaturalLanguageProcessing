@@ -12,7 +12,7 @@
   <li> I use simple feed forward network to feed the data.</li> 
 </ul>
   <h2>Data Preprocessing</h2>
-  As discuss above, I only consider the word which has length more than 2 as well as converting word to stemming using nltk library.
+  As discuss above, I only consider the word which has length more than 2 as well as stemming the word using nltk library.
   Next I create word to index and index to word dictionary of bigram words, which consist of frequency of bigram words i.e. how many times certain word occur in the text.
   Since now I have the dictionary, I can use this to convert the text data to numerical data. which I can later feed into my model. 
   
