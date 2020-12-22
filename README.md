@@ -1,6 +1,6 @@
 <h2>Language Classification</h2>
 <p> I have Made a simple program which help us to classify language , so for  example : if i say my name is Anupam , the model will predict it as english </p>
-<h2> Dataset Structure. <h2>
+<h2> Dataset Structure. </h2>
   <ul>
     <li>Y:X ->  Data file contain label and its corresponding sentences. For example ("eng"-"hello how are you")</li>
   </ul>
